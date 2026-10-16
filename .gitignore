@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+
+# Dataset (download separately; see README)
+data/*.csv
+
+# Generated model artifacts (rebuilt on first run)
+models/*.joblib
+
+# macOS
+.DS_Store

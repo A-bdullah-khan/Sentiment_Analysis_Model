@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+beautifulsoup4
+scikit-learn<1.10  # PassiveAggressiveClassifier is removed in 1.10
+joblib
